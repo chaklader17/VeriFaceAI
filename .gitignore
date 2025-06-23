@@ -2,10 +2,6 @@
 venv/
 .env/
 
-# Ignore large models (optional: upload these elsewhere)
-models/*.h5
-models/*.pth
-
 # Ignore results
 Results/
 
