@@ -1,0 +1,22 @@
+# Ignore virtual environment
+venv/
+.env/
+
+# Ignore large models (optional: upload these elsewhere)
+models/*.h5
+models/*.pth
+
+# Ignore results
+Results/
+
+# Ignore media files
+*.mp4
+
+# Ignore cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE configs
+.idea/
+.vscode/
