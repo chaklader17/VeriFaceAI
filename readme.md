@@ -1,6 +1,6 @@
 <div align="center">
 
-# DeepDetect AI: Deepfake Detection using CNN and RNN
+# VeriFaceAI: Deepfake Detection using CNN and RNN
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
