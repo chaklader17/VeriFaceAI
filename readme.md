@@ -4,7 +4,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-**DeepDetect AI** is a machine learning-based deepfake detection system developed for the **CSE299 Junior Design** course at **North South University**. The project leverages **Convolutional Neural Networks (CNN)** for image-based detection and **Recurrent Neural Networks (RNN)** for audio-based detection of deepfake media.
+**VeriFaceAI** is a machine learning-based deepfake detection system developed for the **CSE299 Junior Design** course at **North South University**. The project leverages **Convolutional Neural Networks (CNN)** for image-based detection and **Recurrent Neural Networks (RNN)** for audio-based detection of deepfake media.
 
 </div>
 
